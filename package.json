@@ -1,0 +1,15 @@
+{
+  "name": "chatbot4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "baileys": "^6.7.16",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
